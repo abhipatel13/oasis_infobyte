@@ -1,0 +1,104 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.home-section{
+    width:100%;
+    background-color: black;
+    color:white;
+    height:100vh;
+    text-align: center;
+}
+
+.t_name{
+    font-size: 45px;
+    margin-bottom: 10px;;
+    padding-top: 200px;;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.t_year{
+    font-size: 20px;
+    margin-bottom: 10px;;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.icon{
+    margin-top: 100px;;
+}
+.icon .fa{
+  font-size: 30px;
+  padding:10px 15px;
+  border: 2px solid whitesmoke;
+  border-radius: 35%;
+  cursor: pointer;
+}
+
+.middle-section{
+    width:100%;
+    height: 100vh;
+    margin-top:20px;
+    background-color: white;
+}
+.middle-text{
+    color: black;
+}
+.middle-section{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+    flex-direction: row;
+    width:100%;
+    justify-content: center;
+    align-items: center;
+
+}
+.middle-text{
+    width:50%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 40px;
+}
+.middle-text p{
+    margin-top:20px;
+}
+.middle-img img{
+    height:60%;
+    width: 100%;
+    padding: 25px;
+    margin: auto;
+   
+}
+
+.last-section{
+    width:100%;
+    height: 110vh;
+    padding:10%;
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
+}
+.last-section-title{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.last-section-text p{
+    margin-top: 20px;;
+    word-spacing: 2px;
+    line-height: 25px;
+    font-size: 18px;;
+}
+.footer-section{
+    margin: 0px;
+    background-color: black;
+
+}
+hr{
+ position: relative;
+ margin-top: 20px;
+}
+.footer-text{
+    text-align: center;
+    margin-top: 20px;
+
+}
