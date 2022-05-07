@@ -1,0 +1,26 @@
+.addedItem{
+    /* width:60%; */
+    display: flex;
+    justify-content: space-between;
+    /* background-color: rebeccapurple; */
+}
+.addedItem p{
+    text-align: center;
+}
+
+button{
+    background-color: #08d;
+    border-radius: 12px;
+    border: 0;
+    box-sizing: border-box;
+    color: #eee;
+    cursor: pointer;
+    font-size: 18px;
+    height: 50px;
+    /* margin-top: 38px; */
+    text-align: center;
+    width: 80px;
+}
+.ListButton{
+    margin-top: 10px;
+}
